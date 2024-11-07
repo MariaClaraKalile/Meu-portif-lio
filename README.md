@@ -1,2 +1,2 @@
-# Meu-portif-lio
-Projeto de Programação - Meu portifólio
+# Meu-portifólio
+Projeto de Programação - Meu portifólio, integrantes do projeto: Isadora Brandão e Marya Vitória
